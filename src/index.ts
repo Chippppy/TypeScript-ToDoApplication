@@ -1,4 +1,5 @@
 import { v4 as uuidV4 } from "uuid"
+import styles from "../public/index.css"
 
 type Task = {
   id: string
